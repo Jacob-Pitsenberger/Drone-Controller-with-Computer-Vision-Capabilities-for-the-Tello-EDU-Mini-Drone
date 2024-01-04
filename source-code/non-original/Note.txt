@@ -1,0 +1,4 @@
+Note that all modules in this folder have been adapted from a non-original source to some extent.
+Modules taken straight from external sources with no edits are found in the source-code folders open-source folder.
+Also note that some of these modules contain functions/methods/classes that are original code of my own making.
+These are indicated as such in the programming through header comments for each method/function/class.
