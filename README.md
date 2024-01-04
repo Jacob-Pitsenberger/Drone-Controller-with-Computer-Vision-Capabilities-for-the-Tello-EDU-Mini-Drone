@@ -17,12 +17,13 @@ This project was undertaken as part of the Senior Project requirement at Governo
   - **[input-files](./data-files/input-files)**
     - Image for Drone controller GUI controls
     - "haarcascade_frontalface_default.xml" for face detection
-  - **[output-files](./data-files/output-files)**
+  - [output-files](#output-files)
     - Faces
     - Maps
     - Objects
     - Pictures
     - Videos
+    - [Directory listed for reference but doesn't actually exist in the repository.]
   - **[database](./data-files/database.db)**
     - SQLite file for storing flight logs
 - [demo-videos](#demo-videos)
